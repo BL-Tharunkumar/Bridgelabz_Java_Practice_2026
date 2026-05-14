@@ -14,7 +14,6 @@ public class DataStructureSearchComparison {
                 return true;
             }
         }
-
         return false;
     }
 
