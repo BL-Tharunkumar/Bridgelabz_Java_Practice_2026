@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 public class EmailValidationTest {
 
-    // Email Validation Method
+    // Email Validation Methods
     public static boolean validateEmail(String email) {
 
         String regex =

@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 public class UserRegistration {
 
-    // UC1 - First Name Validation
+    // UC1 - First Name Validations
     public static boolean validateFirstName(String firstName) {
 
         String regex = "^[A-Z][a-z]{2,}$";
