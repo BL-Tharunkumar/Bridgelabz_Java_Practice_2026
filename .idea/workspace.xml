@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7b227ae-f370-45b6-a247-17a11f0b774c" name="Changes" comment="Day 14 completed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="features/Constructors" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BL-Tharunkumar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BL-Tharunkumar/Bridgelabz_Java_Practice_2026.git&quot;,
+    &quot;accountId&quot;: &quot;d29c66aa-a158-4fda-8d37-4cf4a0d408fc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="38v9lnvrpMgY60M00yDhGrpuQbV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddressBookMain.executor": "Run",
+    "Application.BSTMain.executor": "Run",
+    "Application.EmailValidationTest.executor": "Run",
+    "Application.EmployeeWageComputationProblem.executor": "Run",
+    "Application.EmployeeWageComputationProblemUC8.executor": "Run",
+    "Application.EmployeeWageSystem.executor": "Run",
+    "Application.EmployeeWage_computation_problem_switchclass.executor": "Run",
+    "Application.FileReadingComparison.executor": "Run",
+    "Application.HashTableMain.executor": "Run",
+    "Application.LineComparison (1).executor": "Run",
+    "Application.LineComparison (2).executor": "Run",
+    "Application.LineComparison.executor": "Run",
+    "Application.MaximumTest.executor": "Run",
+    "Application.SortingComparison.executor": "Run",
+    "Application.StockMain.executor": "Run",
+    "Application.StringConcatenationComparison.executor": "Run",
+    "Application.UserRegistration.executor": "Run",
+    "Application.day10.practice.AddressBookMain.executor": "Debug",
+    "Application.if_else_statement.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "features/Constructors",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Bridgelabz_Java_Practice_2026",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.EmailValidationTest">
+    <configuration name="EmailValidationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19.practice.EmailValidationTest" />
+      <module name="Bridgelabz_Java_Practice_2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day19.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReadingComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.practice.FileReadingComparison" />
+      <module name="Bridgelabz_Java_Practice_2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.practice.SortingComparison" />
+      <module name="Bridgelabz_Java_Practice_2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringConcatenationComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.practice.StringConcatenationComparison" />
+      <module name="Bridgelabz_Java_Practice_2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19.practice.UserRegistration" />
+      <module name="Bridgelabz_Java_Practice_2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day19.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmailValidationTest" />
+        <item itemvalue="Application.UserRegistration" />
+        <item itemvalue="Application.FileReadingComparison" />
+        <item itemvalue="Application.StringConcatenationComparison" />
+        <item itemvalue="Application.SortingComparison" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7b227ae-f370-45b6-a247-17a11f0b774c" name="Changes" comment="" />
+      <created>1769669330889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769669330889</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added For loop program of day 2">
+      <option name="closed" value="true" />
+      <created>1769669602910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769669602910</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added For loop program of day 2">
+      <option name="closed" value="true" />
+      <created>1769670962418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769670962418</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added For loop program of day 2">
+      <option name="closed" value="true" />
+      <created>1769671047328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769671047328</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added For loop program of day 2">
+      <option name="closed" value="true" />
+      <created>1769671104842</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769671104842</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added day 8">
+      <option name="closed" value="true" />
+      <created>1769683641635</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769683641635</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added day 8">
+      <option name="closed" value="true" />
+      <created>1770008426001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770008426001</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added day 8">
+      <option name="closed" value="true" />
+      <created>1770008602801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770008602801</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added day 8">
+      <option name="closed" value="true" />
+      <created>1770009434341</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770009434341</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day 9 completed">
+      <option name="closed" value="true" />
+      <created>1770290625827</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770290625827</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Day 10 completed">
+      <option name="closed" value="true" />
+      <created>1770293479482</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770293479482</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Day 10 completed">
+      <option name="closed" value="true" />
+      <created>1775025417113</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1775025417113</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Day 14 completed">
+      <option name="closed" value="true" />
+      <created>1778565262742</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1778565262742</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Day 14 completed">
+      <option name="closed" value="true" />
+      <created>1778650418534</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1778650418534</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Day 14 completed">
+      <option name="closed" value="true" />
+      <created>1778739303654</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778739303654</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Day 14 completed">
+      <option name="closed" value="true" />
+      <created>1778739721490</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1778739721490</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Day 14 completed">
+      <option name="closed" value="true" />
+      <created>1778740240124</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1778740240124</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Day 14 completed">
+      <option name="closed" value="true" />
+      <created>1779167966596</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1779167966596</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added For loop program of day 2" />
+    <MESSAGE value="Added day 8" />
+    <MESSAGE value="Day 9 completed" />
+    <MESSAGE value="Day 10 completed" />
+    <MESSAGE value="Day 14 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 14 completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day2/practice/switch_case.java</url>
+          <line>5</line>
+          <properties class="day2.practice.switch_case" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day5/practice/SwaptwoNumbers.java</url>
+          <line>5</line>
+          <properties class="day5.practice.SwaptwoNumbers" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day5/practice/VowelConsonant.java</url>
+          <line>5</line>
+          <properties class="day5.practice.VowelConsonant" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day5/practice/Leapyear.java</url>
+          <line>5</line>
+          <properties class="day5.practice.Leapyear" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day5/practice/PrimeFactors.java</url>
+          <line>3</line>
+          <properties class="day5.practice.PrimeFactors" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day6/practice/Primenumber.java</url>
+          <line>5</line>
+          <properties class="day6.practice.Primenumber" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day6/practice/PerfectNumber.java</url>
+          <line>6</line>
+          <properties class="day6.practice.PerfectNumber" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day6/practice/MonthlyPayment.java</url>
+          <line>3</line>
+          <properties class="day6.practice.MonthlyPayment" method="monthlyPayment">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day7/practice/GamblingSimulator.java</url>
+          <line>6</line>
+          <properties class="day7.practice.GamblingSimulator" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day5/practice/HeadorTails.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Java_practice_2026/src/day6/practice/Stopwatch.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day8/practice/LineComparison.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
