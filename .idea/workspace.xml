@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9206639-3961-446b-afc2-035588464d16" name="Changes" comment="day37" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BL-Tharunkumar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BL-Tharunkumar/Bridgelabz_Java_Practice_2026.git&quot;,
+    &quot;accountId&quot;: &quot;d29c66aa-a158-4fda-8d37-4cf4a0d408fc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3DvkTN2cuxzpyqk9CWZV3Oi5fDx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddressBookMain.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/IOstreams&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/THARUNKUMAR/Downloads&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\Java\jdk-25.0.2!\java.rmi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AddressBookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24.practice.AddressBookMain" />
+      <module name="Bridgelabz_Java_Practice_2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day24.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AddressBookMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="day19">
+      <option name="closed" value="true" />
+      <created>1779169003499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779169003499</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day19">
+      <option name="closed" value="true" />
+      <created>1779169083952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779169083952</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9206639-3961-446b-afc2-035588464d16" name="Changes" comment="day19" />
+      <created>1779169939222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779169939222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day20">
+      <option name="closed" value="true" />
+      <created>1779170632847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779170632847</updated>
+    </task>
+    <task id="LOCAL-00004" summary="day20">
+      <option name="closed" value="true" />
+      <created>1779170757847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779170757847</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day21">
+      <option name="closed" value="true" />
+      <created>1779188540406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779188540406</updated>
+    </task>
+    <task id="LOCAL-00006" summary="day22">
+      <option name="closed" value="true" />
+      <created>1779346837043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779346837043</updated>
+    </task>
+    <task id="LOCAL-00007" summary="day23">
+      <option name="closed" value="true" />
+      <created>1779792270730</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779792270730</updated>
+    </task>
+    <task id="LOCAL-00008" summary="day24">
+      <option name="closed" value="true" />
+      <created>1780120377462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780120377462</updated>
+    </task>
+    <task id="LOCAL-00009" summary="day26">
+      <option name="closed" value="true" />
+      <created>1780376181901</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1780376181901</updated>
+    </task>
+    <task id="LOCAL-00010" summary="day27">
+      <option name="closed" value="true" />
+      <created>1780378173269</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1780378173269</updated>
+    </task>
+    <task id="LOCAL-00011" summary="day28">
+      <option name="closed" value="true" />
+      <created>1780380598259</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1780380598259</updated>
+    </task>
+    <task id="LOCAL-00012" summary="day35">
+      <option name="closed" value="true" />
+      <created>1781092981105</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1781092981105</updated>
+    </task>
+    <task id="LOCAL-00013" summary="day37">
+      <option name="closed" value="true" />
+      <created>1781179400829</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1781179400829</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day19" />
+    <MESSAGE value="day20" />
+    <MESSAGE value="day21" />
+    <MESSAGE value="day22" />
+    <MESSAGE value="day23" />
+    <MESSAGE value="day24" />
+    <MESSAGE value="day26" />
+    <MESSAGE value="day27" />
+    <MESSAGE value="day28" />
+    <MESSAGE value="day35" />
+    <MESSAGE value="day37" />
+    <option name="LAST_COMMIT_MESSAGE" value="day37" />
+  </component>
+</project>
